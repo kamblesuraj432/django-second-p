@@ -1,10 +1,16 @@
 # django-project - local
 if you running your local computer
+
 $ pip install django
+
 $ python manage.py makemigrations
+
 $ python manage.py migrate
+
 $ python manage.py createsuperuser
+
 $ python manage.py runserver
+
 Once the server is hosted, head over to http://127.0.0.1:8000 for the App.
 
 
